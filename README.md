@@ -1,2 +1,3 @@
 # Amicusia_updates
-This is a repo for tracking ami's updates, there is nothing here... 
+<h1>Amicusia Update and Bug Tracking</h1>
+<p1>This is the public repostory used for Amicusia's bug tracking and also ensureing update messages are pushed to users. If you are here then you likely have a bug to report. While some bugs might not be super detailed that is because I created the report so I know what I mean. If you wish to have you're bug fixed then please give as meny details as you can in the report. if you are here to submit a request for a new feature or for me to change the way something in the game works that is also allowed! please mark it as an enhancment and I'll review it at some point and see if it allines with my sister's and my view of what the game should be. </p1>
